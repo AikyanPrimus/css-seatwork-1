@@ -11,6 +11,7 @@ header li a{
     padding: 14px;
     color: white;
     text-decoration: none;
+    background-size: contain;
 }
 header li a:hover{
     background-color: green;
